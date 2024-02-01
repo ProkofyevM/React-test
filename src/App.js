@@ -3,7 +3,7 @@ import './App.css'
 import { createElement } from 'react'
 import React from 'react'
 
-//Все декларативный кроме span, он иперативный
+//Все декларативный кроме span, он иперативный!
 
 export const App = () => {
 	return (
